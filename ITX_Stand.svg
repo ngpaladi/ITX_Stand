@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="180.948mm" height="178.44799673205105mm" viewBox="0 0 180.948 178.44799673205105" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Part__Part2DObjectPython" transform="translate(11.774000,166.673997) scale(1,-1)">
+<circle cx="1.2246467991473517e-15" cy="1.2246467991473537e-15" r="2.05" stroke="#f1f3f5" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="157.4" cy="1.2246467991473537e-15" r="2.05" stroke="#f1f3f5" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="157.4" cy="132.1" r="2.05" stroke="#f1f3f5" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="1.2246467991473517e-15" cy="154.9" r="2.05" stroke="#f1f3f5" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<path id="Part__Part2DObjectPython_w0004"  d="M 1.5308084987678308e-15 10.0 L 3.0616170016052656e-16 144.9 A 10 10 0 0 1 10 154.9L 157.4 154.89999673205105 L 157.4 142.1 A 10 10 0 1 1 157.4 122.1L 157.4 10.000000000000005 A 10 10 0 0 1 147.4 2.44929e-15L 10.000000000000002 1.2246467991473537e-15 A 10 10 0 0 1 1.83697e-15 10" stroke="#f1f3f5" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Part__Part2DObjectPython_w0005"  d="M -1.921004080771611e-15 -10.0 L 157.4 -10.0 A 10 10 0 0 1 167.4 -2.77029e-15L 167.4 154.89999673205105 A 10 10 0 0 1 157.4 164.9L 4.455902226379416e-16 164.89999673205105 A 10 10 0 0 1 -10 154.9L -10.0 5.777068705693053e-16 A 10 10 0 0 1 -1.921e-15 -10" stroke="#f1f3f5" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<title>b'Part__Part2DObjectPython'</title>
+</g>
+</svg>
